@@ -32,7 +32,7 @@ db.once('open',()=> console.log('Connected to mongoose database'))
 
 
 app.use(express.json())
-app.use(authenticateAPIKey);
+//app.use(authenticateAPIKey);
 
 // define SPI route files
 const dealershipRoutes = require('./routes/dealerships')
