@@ -2,7 +2,7 @@
 
 This code implments the dealership and review server from the Coursera Cloud Capston project, but locally because the IBM service is being decomissioned
 
-I commented out the API authentication step. 
+I commented out the API authentication step, but you can create your own .env file
 
 example would be send GET to http://127.0.0.1:5000/reviews in POSTMAN
 
