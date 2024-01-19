@@ -1,6 +1,6 @@
 ## Abstract
 
-This code implments the dealership and review server from the Coursera Cloud Capston project, but locally because the IBM service is being decomissioned, and using the exact same authentication mthod with POST man to several other cloud services did not work with the IBM URL and key.
+This code implments the dealership and review server from the Coursera Cloud Capston project, but locally because the IBM service is being decomissioned
 
 I commented out the API authentication step. 
 
